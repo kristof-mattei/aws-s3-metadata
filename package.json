@@ -1,0 +1,20 @@
+{
+    "name": "aws-s3-metadata",
+    "version": "0.0.0",
+    "description": "aws-s3-metadata",
+    "main": "app.js",
+    "author": {
+        "name": "Kristof Mattei",
+        "email": "github@kristofmattei.be"
+    },
+    "readme": "README.md",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CSharpFan/aws-s3-metadata.git"
+    },
+    "homepage": "http://kristofmattei.be",
+    "dependencies": {
+        "aws-sdk": "^2.2.0"
+    }
+}
